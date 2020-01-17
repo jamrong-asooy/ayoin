@@ -2,8 +2,20 @@
 using namespace std;
 
 int main(){
+
 for(int i=0; i<=5; i++){
   cout<<"Hello World";
   cout<<"iyaa halo kamu";
   }
+
+  cout<<"Hello World"<<endl;
+
+  cout<<"ngopi slurr"<<endl;
+  cout<<"iyain aja";
+  cout<<"iya";
+  
+  cout<<"Daleeemmmm"<<endl;
+  cout<<"Daleeemmmm";
+  cout<<"PeTIK Bismillah";
+
 }
